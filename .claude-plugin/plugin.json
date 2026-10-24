@@ -1,0 +1,7 @@
+{
+  "name": "language-tutor",
+  "version": "0.1.3",
+  "description": "Learn a foreign language while coding: writing check and tutor on your prompts, FSRS flashcards, and bilingual replies",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
